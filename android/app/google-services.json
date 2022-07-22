@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34321702168",
+    "project_id": "casaiot-9b1ad",
+    "storage_bucket": "casaiot-9b1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34321702168:android:7ecf734eed93145607926d",
+        "android_client_info": {
+          "package_name": "com.example.casaiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34321702168-pkongsjbtt46djc80p2tihv92p0qgpci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxYxTHtedn1h88iw0WpCIR_dwJL1SD1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34321702168-pkongsjbtt46djc80p2tihv92p0qgpci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
